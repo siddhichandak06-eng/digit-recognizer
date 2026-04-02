@@ -38,6 +38,6 @@ loss, acc = model.evaluate(x_test, y_test)
 print("Test Accuracy:", acc)
 
 # Save model
-model.save("digit_model.keras")
+model.save_weights("model.weights.h5")
 
 print("Model saved as digit_model.h5")
