@@ -4,7 +4,7 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 
 # Load model
-model = load_model("digit_model.h5")
+model = load_model("digit_model.h5", compile=False)
 
 st.title("✍️ Handwritten Digit Recognizer")
 
