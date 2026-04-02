@@ -27,6 +27,8 @@ python app.py
 
 ## 📸 Output
 Draw a digit → Click Predict → Get result instantly
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fc39d045-6131-4819-9850-bedeedcdf479" />
+
 
 ## ⭐ Future Improvements
 - Improve accuracy with more training
